@@ -1,6 +1,3 @@
-#ifndef __ELF_C__
-#define __ELF_C__
-
 #include "elf.h"
 #include "vfs.h"
 #include "stdio.h"
